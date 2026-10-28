@@ -2,7 +2,7 @@
 
 Code and data for:
 
-> **F. Covell** *[Article title – to be added]*. [Journal, year – to be added].
+> **F. Covell** *[Mathematical model of phenotypic plasticity predicts interconversion is a drug target for neuroblastoma.]*. [2026].
 
 A three-population ODE model of neuroblastoma – adrenergic (**N**), intermediate / I-type (**I**) and mesenchymal (**S**) cells – used to test how each of the 64 possible interconversion patterns changes the effect of an N- or S-targeting inhibitor.
 
