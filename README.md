@@ -113,6 +113,7 @@ The per-run `.pkl` files and the SQLite time-series databases (`Time_Series.db`,
 - **`Complex4Cycle16-06-2026.py`** was reconstructed from the 3-cycle `Complex16-06-2026.py` by changing only the save folder (`3 cycle` → `4 cycle`) and `cycle_length` (3 → 4). The original 3-cycle version is not included here.
 - **`FullAnalysis-28-07-2026.R`, line 812:** the two-phase plots (Fig 8) now read `4 cycle/P1End/timeseries.db`. An earlier version read the three-phase N-inhibitor database by mistake.
 
+[![DOI](https://zenodo.org/badge/1437577015.svg)](https://doi.org/10.5281/zenodo.23744299)
 ## Licence
 
 Released under the [MIT Licence](LICENSE).
